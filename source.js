@@ -1,1 +1,4 @@
-console.log('welcome ');
+ var  a = 100;
+
+
+ console.log(a)
